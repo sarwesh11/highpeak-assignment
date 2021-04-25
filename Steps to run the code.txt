@@ -1,0 +1,5 @@
+1) Open the code in any python editor.
+2) Copy the sample_input.txt file and output.txt in the same directory as the code.py
+3) Run the code.py.
+4) Provide the N and M values as per question. And provide the goodies details in the sample_input.txt (Here sample data from given question has been already taken for execution purpose.)
+5) Check the output file in output.txt.
