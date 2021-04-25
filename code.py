@@ -25,6 +25,7 @@ with open("sample_input.txt") as f:
             diff=l[i]-l[i-M]
             ind=i
     temp=l[ind-M:ind+1]
+print("And the difference between the chosen goodie with highest price and the lowest price is ",temp[-1]-temp[0])
 #Creating the result list
 for k,v in d.items():
     if v in temp:
