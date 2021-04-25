@@ -1,1 +1,6 @@
-
+Sandwich Toaster: 2195
+Microwave Oven: 9800
+Scale: 4999
+Alexa: 9999
+Fitbit Plus: 7980
+Cult Pass: 2799
